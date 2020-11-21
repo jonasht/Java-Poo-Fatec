@@ -50,10 +50,11 @@ public class  RegistroPonto extends Funcionario{
         this.horaSaida = horaSaida;
     }
     public void apresentarRegistroPonto(){
+        System.out.println("=============================================");
         System.out.println("nome do funcionario: " + func.getNome());
-        System.out.println("data de registro: " + getDataRegistro());
-        System.out.println("hora de entrada: " + getHoraEntrada());
-        System.out.println("hora de saida: " + getHoraSaida());
+        System.out.println("data de registro: " + dataRegistro);
+        System.out.println("hora de entrada: " + horaEntrada);
+        System.out.println("hora de saida: " + horaSaida);
 
     }
 }
