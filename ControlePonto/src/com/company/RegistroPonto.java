@@ -1,13 +1,14 @@
 package com.company;
 
 import java.time.LocalDate;
+import java.time.LocalDateTime;
 
-public class RegistroPonto {
+public class  RegistroPonto extends Funcionario{
     private long idRegPonto;
     private Funcionario func;
     private LocalDate dataRegistro;
-    private LocalDate horaEntrada;
-    private LocalDate horaSaida;
+    private LocalDateTime horaEntrada;
+    private LocalDateTime horaSaida;
 
     public long getIdRegPonto() {
         return idRegPonto;
@@ -33,19 +34,19 @@ public class RegistroPonto {
         this.dataRegistro = dataRegistro;
     }
 
-    public LocalDate getHoraEntrada() {
+    public LocalDateTime getHoraEntrada() {
         return horaEntrada;
     }
 
-    public void setHoraEntrada(LocalDate horaEntrada) {
+    public void setHoraEntrada(LocalDateTime horaEntrada) {
         this.horaEntrada = horaEntrada;
     }
 
-    public LocalDate getHoraSaida() {
+    public LocalDateTime getHoraSaida() {
         return horaSaida;
     }
 
-    public void setHoraSaida(LocalDate horaSaida) {
+    public void setHoraSaida(LocalDateTime horaSaida) {
         this.horaSaida = horaSaida;
     }
     public void apresentarRegistroPonto(){
