@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00exercicios/01-prjApolice/01-prjApolice.iml" filepath="$PROJECT_DIR$/00exercicios/01-prjApolice/01-prjApolice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-projetoOlaMundo/01-projetoOlaMundo.iml" filepath="$PROJECT_DIR$/01-projetoOlaMundo/01-projetoOlaMundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00exercicios/02-ex1-projetoAcampamento/02-ex1-projetoAcampamento.iml" filepath="$PROJECT_DIR$/00exercicios/02-ex1-projetoAcampamento/02-ex1-projetoAcampamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00exercicios/02-ex2-projetoComputador/02-ex2-projetoComputador.iml" filepath="$PROJECT_DIR$/00exercicios/02-ex2-projetoComputador/02-ex2-projetoComputador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00exercicios/02-ex3-projetoConta/02-ex3-projetoConta.iml" filepath="$PROJECT_DIR$/00exercicios/02-ex3-projetoConta/02-ex3-projetoConta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-projetoAcademico/02-projetoAcademico.iml" filepath="$PROJECT_DIR$/02-projetoAcademico/02-projetoAcademico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-projetoApolice/03-projetoApolice.iml" filepath="$PROJECT_DIR$/03-projetoApolice/03-projetoApolice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-conta/04-conta.iml" filepath="$PROJECT_DIR$/04-conta/04-conta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-projetoConversao/05-projetoConversao.iml" filepath="$PROJECT_DIR$/05-projetoConversao/05-projetoConversao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-projetoEntradas/06-projetoEntradas.iml" filepath="$PROJECT_DIR$/06-projetoEntradas/06-projetoEntradas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-projetoEstruturas/07-projetoEstruturas.iml" filepath="$PROJECT_DIR$/07-projetoEstruturas/07-projetoEstruturas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-projetoAcampamento/08-projetoAcampamento.iml" filepath="$PROJECT_DIR$/08-projetoAcampamento/08-projetoAcampamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-projetoMovimentacao/09-projetoMovimentacao.iml" filepath="$PROJECT_DIR$/09-projetoMovimentacao/09-projetoMovimentacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-projetoComputador/10-projetoComputador.iml" filepath="$PROJECT_DIR$/10-projetoComputador/10-projetoComputador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-projetoConta/11-projetoConta.iml" filepath="$PROJECT_DIR$/11-projetoConta/11-projetoConta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-projetoVetor/12-projetoVetor.iml" filepath="$PROJECT_DIR$/12-projetoVetor/12-projetoVetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-projetoVetor2/13-projetoVetor2.iml" filepath="$PROJECT_DIR$/13-projetoVetor2/13-projetoVetor2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-projetoVetorCliente/14-projetoVetorCliente.iml" filepath="$PROJECT_DIR$/14-projetoVetorCliente/14-projetoVetorCliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-projetoEstacionamento/15-projetoEstacionamento.iml" filepath="$PROJECT_DIR$/15-projetoEstacionamento/15-projetoEstacionamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-projetoMatriz/16-projetoMatriz.iml" filepath="$PROJECT_DIR$/16-projetoMatriz/16-projetoMatriz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-projetoFuncionario/17-projetoFuncionario.iml" filepath="$PROJECT_DIR$/17-projetoFuncionario/17-projetoFuncionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-projetoBanco-feitoEmAula/18-projetoBanco-feitoEmAula.iml" filepath="$PROJECT_DIR$/18-projetoBanco-feitoEmAula/18-projetoBanco-feitoEmAula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19-projetoEscola/19-projetoEscola.iml" filepath="$PROJECT_DIR$/19-projetoEscola/19-projetoEscola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20-projetosPacotes/20-projetosPacotes.iml" filepath="$PROJECT_DIR$/20-projetosPacotes/20-projetosPacotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prova1/3-prova/3-prova.iml" filepath="$PROJECT_DIR$/prova1/3-prova/3-prova.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prova1/4-prova/4-prova.iml" filepath="$PROJECT_DIR$/prova1/4-prova/4-prova.iml" />
+      <module fileurl="file://$PROJECT_DIR$/antigo/Aula05-03exemplosobrecarga/Aula05-03exemplosobrecarga.iml" filepath="$PROJECT_DIR$/antigo/Aula05-03exemplosobrecarga/Aula05-03exemplosobrecarga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/antigo/aulas/EntradaAula20-02/EntradaAula20-02.iml" filepath="$PROJECT_DIR$/antigo/aulas/EntradaAula20-02/EntradaAula20-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/antigo/EntradaAula20-02/EntradaAula20-021.iml" filepath="$PROJECT_DIR$/antigo/EntradaAula20-02/EntradaAula20-021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioSobreHeranca/ExercicioSobreHeranca.iml" filepath="$PROJECT_DIR$/ExercicioSobreHeranca/ExercicioSobreHeranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/antigo/aulas/ProjetoDeConta/ProjetoDeConta.iml" filepath="$PROJECT_DIR$/antigo/aulas/ProjetoDeConta/ProjetoDeConta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/antigo/ProjetoDeConta/ProjetoDeConta1.iml" filepath="$PROJECT_DIR$/antigo/ProjetoDeConta/ProjetoDeConta1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/antigo/aulas/SistemaDeAcapamento20-02-2020/SistemaDeAcapamento20-02-2020.iml" filepath="$PROJECT_DIR$/antigo/aulas/SistemaDeAcapamento20-02-2020/SistemaDeAcapamento20-02-2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/antigo/SistemaDeAcapamento20-02-2020/SistemaDeAcapamento20-02-20201.iml" filepath="$PROJECT_DIR$/antigo/SistemaDeAcapamento20-02-2020/SistemaDeAcapamento20-02-20201.iml" />
+      <module fileurl="file://$PROJECT_DIR$/antigo/aula05-03/aula05-03.iml" filepath="$PROJECT_DIR$/antigo/aula05-03/aula05-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/antigo/aula27-02Conversão/aula27-02Conversão.iml" filepath="$PROJECT_DIR$/antigo/aula27-02Conversão/aula27-02Conversão.iml" />
+      <module fileurl="file://$PROJECT_DIR$/antigo/aula27-02Passagem/aula27-02Passagem.iml" filepath="$PROJECT_DIR$/antigo/aula27-02Passagem/aula27-02Passagem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/antigo/aula27-02Vetor/aula27-02Vetor.iml" filepath="$PROJECT_DIR$/antigo/aula27-02Vetor/aula27-02Vetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/antigo/aulas/aula27-02Vetor/aula27-02Vetor1.iml" filepath="$PROJECT_DIR$/antigo/aulas/aula27-02Vetor/aula27-02Vetor1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/antigo/aula27-02Vetor2/aula27-02Vetor2.iml" filepath="$PROJECT_DIR$/antigo/aula27-02Vetor2/aula27-02Vetor2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/antigo/aula27-02computador/aula27-02computador.iml" filepath="$PROJECT_DIR$/antigo/aula27-02computador/aula27-02computador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/antigo/aula27-02passagemValor/aula27-02passagemValor.iml" filepath="$PROJECT_DIR$/antigo/aula27-02passagemValor/aula27-02passagemValor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-Poo-Fatec.iml" filepath="$PROJECT_DIR$/.idea/java-Poo-Fatec.iml" />
+    </modules>
+  </component>
+</project>
